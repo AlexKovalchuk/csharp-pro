@@ -1,0 +1,56 @@
+# Ignore Visual Studio temporary files, build results, and
+# other files that shouldn't be committed to git
+
+# User-specific files
+*.rsuser
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# User-specific files (Mono auto generated)
+mono_crash.*
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+x64/
+x86/
+[Aa]rm/
+[Aa]rm64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Uncomment if using .NET Core or .NET 5+
+# *.log
+# **/[Bb]in/
+# **/[Oo]bj/
+
+# .NET Core SDK
+global.json
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored because of NuGet restore
+**/[Pp]ackages/*
+# Uncomment if using .NET Core or .NET 5+
+# !**/[Pp]ackages/build/
+# !**/[Pp]ackages/rebuild/
+# Uncomment if using NuGet directory-based restore
+# **/[Pp]ackages/**/build/
+# **/[Pp]ackages/**/rebuild/
+
+# Ignore IDE folders
+.idea/
+.vscode/
+
+# Rider project files
+.idea/
+*.sln.iml
