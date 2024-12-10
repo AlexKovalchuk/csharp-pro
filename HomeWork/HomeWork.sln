@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork", "HomeWork\HomeWork.csproj", "{87AFD995-60E5-4DE7-9013-AF5D7AB973BF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork1-Animals", "HomeWork1-Animals\HomeWork1-Animals.csproj", "{87AFD995-60E5-4DE7-9013-AF5D7AB973BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork2-Library", "HomeWork2-Library\HomeWork2-Library.csproj", "{4A10AF13-C6FD-4F3C-AE3E-9F181D4357CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +14,9 @@ Global
 		{87AFD995-60E5-4DE7-9013-AF5D7AB973BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87AFD995-60E5-4DE7-9013-AF5D7AB973BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87AFD995-60E5-4DE7-9013-AF5D7AB973BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A10AF13-C6FD-4F3C-AE3E-9F181D4357CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A10AF13-C6FD-4F3C-AE3E-9F181D4357CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A10AF13-C6FD-4F3C-AE3E-9F181D4357CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A10AF13-C6FD-4F3C-AE3E-9F181D4357CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
