@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork-4-CustomList", "Ho
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork-5-AdjustAnimalHotel", "HomeWork-5-AdjustAnimalHotel\HomeWork-5-AdjustAnimalHotel.csproj", "{0CD2C4CC-A1CA-44A5-B6DB-5FB82B92673A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork-7-Multithreading", "HomeWork-7-Multithreading\HomeWork-7-Multithreading.csproj", "{5EA18C9E-12B3-4AA0-B14E-6C78909357E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{0CD2C4CC-A1CA-44A5-B6DB-5FB82B92673A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CD2C4CC-A1CA-44A5-B6DB-5FB82B92673A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CD2C4CC-A1CA-44A5-B6DB-5FB82B92673A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EA18C9E-12B3-4AA0-B14E-6C78909357E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EA18C9E-12B3-4AA0-B14E-6C78909357E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EA18C9E-12B3-4AA0-B14E-6C78909357E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EA18C9E-12B3-4AA0-B14E-6C78909357E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
